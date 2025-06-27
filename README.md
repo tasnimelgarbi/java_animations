@@ -10,6 +10,10 @@ This project simulates a sunrise scene including animated elements such as a ris
 - Animated butterflies and birds
 - Static and dynamic flowers rendered randomly
 
+## Author
+
+Team Member / FCI-ZU
+
 ## How to Run
 
 ```bash
