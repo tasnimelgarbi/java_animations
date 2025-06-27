@@ -1,0 +1,10 @@
+com\mycompany\spaceadventure\spaceobjects\Sun.class
+com\mycompany\spaceadventure\SpaceAdventure.class
+com\mycompany\spaceadventure\spaceobjects\Saturn.class
+com\mycompany\spaceadventure\spaceobjects\Earth.class
+com\mycompany\spaceadventure\spaceobjects\Moon.class
+com\mycompany\spaceadventure\spaceobjects\Venus.class
+com\mycompany\spaceadventure\SpaceCanvas$Star.class
+com\mycompany\spaceadventure\SpaceCanvas.class
+com\mycompany\spaceadventure\spaceobjects\Astronaut.class
+com\mycompany\spaceadventure\spaceobjects\Mercury.class
