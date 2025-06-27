@@ -10,6 +10,10 @@ This animation simulates a space environment with multiple parallax star layers,
 - Moving background with layered stars
 - Collision detection with planets
 
+## Author
+
+Team Member / FCI-ZU
+
 ## How to Run
 
 ```bash
